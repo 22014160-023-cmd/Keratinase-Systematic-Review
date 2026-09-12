@@ -1,0 +1,31 @@
+{
+  "search_queries": {
+    "bacterial_keratinase_proteins": {
+      "db": "protein",
+      "term": "bacterial keratinase[Title] AND (Bacillus[Organism] OR Pseudomonas[Organism] OR Streptomyces[Organism])",
+      "retmax": 500
+    },
+    "keratinase_nucleotide": {
+      "db": "nucleotide",
+      "term": "keratinase[Title] AND bacteria[Organism]",
+      "retmax": 500
+    },
+    "keratinase_pubmed": {
+      "db": "pubmed",
+      "term": "bacterial keratinase[Title/Abstract] AND (pharmaceutical[Title/Abstract] OR cosmetic[Title/Abstract])",
+      "retmax": 300
+    },
+    "bacillus_keratinase": {
+      "db": "protein",
+      "term": "Bacillus keratinase[Title]",
+      "retmax": 300
+    }
+  },
+  "api_config": {
+    "api_key": "",
+    "email": "research@example.com",
+    "tool": "KeratinaseSystematicReview",
+    "delay": 0.34
+  },
+  "created": "2026-09-12 18:23:08.252867"
+}

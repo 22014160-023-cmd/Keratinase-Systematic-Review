@@ -1,0 +1,22 @@
+NCBI Download Log - 2026-09-12 18:23:08.250315
+==================================================
+
+keratinase_nucleotide: 90 results, 90 IDs retrieved
+
+bacillus_keratinase: 66 results, 66 IDs retrieved
+
+keratinase_nucleotide: 90 results, 90 IDs retrieved
+
+bacillus_keratinase: 66 results, 66 IDs retrieved
+
+keratinase_proteins_all: 13110 results, 1000 IDs retrieved
+
+bacterial_keratinase_proteins: 13082 results, 1000 IDs retrieved
+
+bacillus_keratinase_v2: 5143 results, 1000 IDs retrieved
+
+keratinase_pubmed_v2: 154 results, 154 IDs retrieved
+
+keratinase_pubmed_all: 699 results, 699 IDs retrieved
+
+keratinase_nucleotide_v2: 1346 results, 1000 IDs retrieved

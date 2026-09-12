@@ -1,0 +1,181 @@
+uid,accession,title,organism,taxid,length,mol_type,create_date,year
+2993367416,PV702345.1,"Bacillus pumilus strain SG9462 keratinase I gene, complete cds",Bacillus pumilus,1408,1152,dna,2025/06/14,2025
+2809798053,PQ362380.1,"Bacillus licheniformis strain KCTC 1026 keratinase (kerH) gene, complete cds",Bacillus licheniformis,1402,1140,dna,2024/09/30,2024
+2752716030,PP942533.1,"Stenotrophomonas sp. strain GSGU2024 keratinase (kerGS) gene, complete cds",Stenotrophomonas sp.,69392,1769,dna,2024/07/06,2024
+2705993528,PP540287.1,"Bacillus sp. (in: firmicutes) strain RMGU2024 keratinase precursor (kerRM) gene, complete cds",Bacillus sp. (in: firmicutes),1409,1194,dna,2024/04/03,2024
+2705993526,PP540286.1,"Bacillus sp. (in: firmicutes) strain MSGU2024 keratinase (kerFS) gene, partial cds",Bacillus sp. (in: firmicutes),1409,855,dna,2024/04/03,2024
+2618797045,OR733336.1,"Bacillus subtilis strain bta keratinase gene, partial cds",Bacillus subtilis,1423,1110,dna,2023/11/13,2023
+2563104457,OR067194.1,"Bacillus velezensis strain TCCC11320 keratinase gene, complete cds",Bacillus velezensis,492670,1092,dna,2023/08/20,2023
+2563104455,OR050539.1,"Bacillus licheniformis strain ATCC 14580 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2023/08/20,2023
+2445174546,ON604954.1,"Geobacillus thermodenitrificans strain PS41-FP putative keratinase gene, partial cds",Geobacillus thermodenitrificans,33940,217,dna,2023/02/21,2023
+2445170977,ON630913.1,"Bacillus subtilis strain PS3-FP.ab1 keratinase (ker) gene, partial cds",Bacillus subtilis,1423,895,dna,2023/02/21,2023
+2445170975,ON630912.1,"Bacillus licheniformis strain PS62-FP.ab1 keratinase (ker) gene, partial cds",Bacillus licheniformis,1402,852,dna,2023/02/21,2023
+2445170973,ON630911.1,"Bacillus thuringiensis strain PS8-FP.ab1 keratinase (ker) gene, partial cds",Bacillus thuringiensis,1428,446,dna,2023/02/21,2023
+2428737136,OM988160.1,"Pseudomonas aeruginosa strain Gxun-7 keratinase gene, partial cds",Pseudomonas aeruginosa,287,1428,dna,2023/01/23,2023
+2426205223,OM992359.1,"Pseudomonas aeruginosa strain Gxun-7 keratinase kp gene, partial cds",Pseudomonas aeruginosa,287,1428,dna,2023/01/17,2023
+2426205220,OM992358.1,"Pseudomonas aeruginosa strain Gxun-7 keratinase kp2 gene, partial cds",Pseudomonas aeruginosa,287,1425,dna,2023/01/17,2023
+2347852678,OM417521.1,"Pseudomonas aeruginosa strain Gxun-30 keratinase kp2 gene, partial cds",Pseudomonas aeruginosa,287,1351,dna,2022/11/30,2022
+2347773850,OM273741.1,"Pseudomonas aeruginosa strain Gxun-7 keratinase (kp2) gene, partial cds",Pseudomonas aeruginosa,287,1350,dna,2022/11/30,2022
+2283489492,MZ147000.1,"Bacillus velezensis strain SYBC H47 keratinase gene, complete cds",Bacillus velezensis,492670,1149,dna,2022/08/13,2022
+2254959123,MZ516797.1,"Bacillus sp. (in: Bacteria) strain FJ-3-16 keratinase (kerFJ) gene, complete cds",Bacillus sp. (in: firmicutes),1409,1149,dna,2022/06/17,2022
+2211510895,OL685340.1,"UNVERIFIED: Bacillus pumilus strain AR57 keratinase 2-like (ker2) gene, partial sequence",Bacillus pumilus,1408,1148,dna,2022/03/29,2022
+2211510894,OL685339.1,"UNVERIFIED: Bacillus pumilus strain AR57 keratinase 1-like (ker1) gene, partial sequence",Bacillus pumilus,1408,1147,dna,2022/03/29,2022
+2172924864,OL448306.1,"Bacillus cereus group sp. strain KerS39ems keratinase gene, partial cds",Bacillus cereus group sp.,2559710,809,dna,2022/01/10,2022
+2172924862,OL448305.1,"Bacillus cereus group sp. strain KerS39 keratinase gene, partial cds",Bacillus cereus group sp.,2559710,886,dna,2022/01/10,2022
+2172924860,OL448304.1,"Bacillus cereus group sp. strain kerS26uv keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924858,OL448303.1,"Bacillus cereus group sp. strain kerS26 keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924856,OL448302.1,"Bacillus cereus group sp. strain KerS15ems keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924854,OL448301.1,"Bacillus cereus group sp. strain KerS15 keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924852,OL448300.1,"Bacillus cereus group sp. strain KerS13uv+ems keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924850,OL448299.1,"Bacillus cereus group sp. strain KerS13uv keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924848,OL448298.1,"Bacillus cereus group sp. strain KerS13 keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924846,OL448297.1,"Bacillus cereus group sp. strain KerS1ems keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924844,OL448296.1,"Bacillus cereus group sp. strain KerS1 keratinase gene, partial cds",Bacillus cereus group sp.,2559710,704,dna,2022/01/10,2022
+2108693310,OK033361.1,"Bacillus sp. (in: Bacteria) strain FHNM keratinase gene, partial cds",Bacillus sp. (in: firmicutes),1409,658,dna,2021/10/13,2021
+2108693308,OK033360.1,"Bacillus sp. (in: Bacteria) strain NFH5 keratinase gene, partial cds",Bacillus sp. (in: firmicutes),1409,876,dna,2021/10/13,2021
+2033716483,MW477684.1,"Bacillus mojavensis strain BK107 keratinase gene, partial cds",Bacillus mojavensis,72360,1110,dna,2021/05/12,2021
+2030387037,MW504716.1,"Bacillus licheniformis strain BK402 keratinase gene, partial cds",Bacillus licheniformis,1402,1134,dna,2021/05/03,2021
+2030387035,MW504715.1,"Bacillus paralicheniformis strain BK401 keratinase gene, partial cds",Bacillus paralicheniformis,1648923,1134,dna,2021/05/03,2021
+2030387033,MW504714.1,"Bacillus tequilensis strain BK206 keratinase gene, partial cds",Bacillus tequilensis,227866,1110,dna,2021/05/03,2021
+2030387031,MW504713.1,"Bacillus pumilus strain BK111 keratinase gene, partial cds",Bacillus pumilus,1408,1059,dna,2021/05/03,2021
+2030387029,MW504712.1,"Bacillus tequilensis strain BK324 keratinase gene, partial cds",Bacillus tequilensis,227866,1110,dna,2021/05/03,2021
+2025687690,MW401230.1,"Bacillus pumilus strain FUM120 keratinase gene, partial cds",Bacillus pumilus,1408,1152,dna,2021/04/19,2021
+1905076364,MT268136.1,"Bacillus sp. (in: firmicutes) strain CSK2 keratinase (kerCSK2) gene, partial cds",Bacillus sp. (in: firmicutes),1409,471,dna,2020/09/30,2020
+1905076362,MT268135.1,"Bacillus sp. (in: firmicutes) strain Okoh-K1 keratinase (kerBOK1) gene, partial cds",Bacillus sp. (in: firmicutes),1409,483,dna,2020/09/30,2020
+1905076360,MT268134.1,"Bacillus sp. (in: firmicutes) strain FPF-1 keratinase (kerBFPF1) gene, partial cds",Bacillus sp. (in: firmicutes),1409,491,dna,2020/09/30,2020
+1905076366,MT268133.1,"Bacillus sp. (in: firmicutes) strain Nnolim-K1 keratinase (kerBNK1) gene, partial cds",Bacillus sp. (in: firmicutes),1409,486,dna,2020/09/21,2020
+1799637673,MN256128.1,"Bacillus subtilis strain S1-4 keratinase KER71 gene, complete cds",Bacillus subtilis,1423,1146,dna,2020/01/27,2020
+1772913216,MN061494.1,"Amycolatopsis sp. strain BJA-103 keratinase gene, complete cds",Amycolatopsis sp.,37632,1251,dna,2019/11/11,2019
+1482646321,MG738728.1,"Bacillus sp. LCB12 keratinase gene, complete cds",Bacillus sp. LCB12,2364536,1140,dna,2019/02/09,2019
+1384791298,MF327392.1,"Bacillus licheniformis strain Y6 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2018/05/05,2018
+1235806981,KY914477.1,"Actinomadura keratinilytica strain Cpt20 serine alkaline keratinase preproprotein (kerB) gene, complete cds",Actinomadura keratinilytica,547461,1845,dna,2018/05/06,2018
+1172213218,LC216397.1,"Brevibacillus sp. KN50 kn50 gene for keratinase gene, complete cds",Brevibacillus sp. KN50,1960305,1254,dna,2017/04/01,2017
+1127547531,KX155576.1,"Bacillus thuringiensis strain S3KUBOT keratinase (ker) gene, ker-S3KUBOT allele, partial cds",Bacillus thuringiensis,1428,1041,dna,2017/01/09,2017
+351000220,JF923748.1,"Bacillus licheniformis strain ER-15 keratinase ker BL gene, partial cds",Bacillus licheniformis,1402,1110,dna,2011/10/18,2011
+338172912,HQ694987.1,"Bacillus cereus strain Wu6 keratinase (ker6) gene, partial cds",Bacillus cereus,1396,1104,dna,2011/06/29,2011
+164654844,EU360728.1,"Bacillus subtilis strain BF20 keratinase gene, partial cds",Bacillus subtilis,1423,1065,dna,2008/01/16,2008
+53828140,AY744703.1,"Streptomyces sp. OWU 1633 keratinase enzyme gene, partial cds",Streptomyces sp. OWU 1633,295130,540,dna,2004/10/10,2004
+310007192,HM452164.1,"Pseudomonas aeruginosa strain KS-1 keratinase KP1 gene, partial cds",Pseudomonas aeruginosa,287,1596,dna,2010/10/30,2010
+310007190,HM452163.1,"Pseudomonas aeruginosa strain KS-1 keratinase KP2 gene, partial cds",Pseudomonas aeruginosa,287,1428,dna,2010/10/30,2010
+1042810636,KX184832.1,"Bacillus pumilus strain C4 keratinase Ker2 gene, complete cds",Bacillus pumilus,1408,1152,dna,2016/07/13,2016
+1042810634,KX184831.1,"Bacillus pumilus strain C4 keratinase Ker1 gene, complete cds",Bacillus pumilus,1408,1152,dna,2016/07/13,2016
+973694714,KT844950.1,"Bacillus subtilis strain Egy-Ker keratinase gene, partial cds",Bacillus subtilis,1423,1130,dna,2016/01/17,2016
+973694711,KT844948.1,"Mutant Bacillus subtilis strain Egy-KerM keratinase gene, partial cds",Bacillus subtilis,1423,1130,dna,2016/01/17,2016
+923042740,KP994171.1,"Bifidobacterium longum strain W211 keratinase (KerSMD) gene, partial cds; transposon Tn5432 insertion sequence IS1249a transposase (tnp1249a) gene, complete cds, 23S rRNA N-6-methyltransferase (ermX) gene, complete cds, and insertion sequence IS1249b transposase (tnp249b) gene, complete cds; and putative auxin efflux carrier protein (PIN1) gene, complete cds",Bifidobacterium longum,216816,6327,dna,2015/09/01,2015
+893694190,KR868996.1,"Bacillus amyloliquefaciens strain K11 keratinase (kerK) gene, complete cds",Bacillus amyloliquefaciens,1390,1368,dna,2015/07/22,2015
+846451729,KP694221.1,"Bacillus tequilensis strain Q7 serine neutral keratinase preproprotein (ker) gene, complete cds",Bacillus tequilensis,227866,1343,dna,2015/06/28,2015
+823327613,KP893107.1,"Bacillus licheniformis strain UTM107 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2015/05/31,2015
+668730482,KJ661542.1,"Bacillus licheniformis strain MZK05 keratinase (kerA) gene, complete cds",Bacillus licheniformis,1402,1140,dna,2015/04/05,2015
+760865155,LC029453.1,"Stenotrophomonas maltophilia KER N4 gene for keratinase, complete cds, strain: N4",Stenotrophomonas maltophilia,40324,1770,dna,2015/02/24,2015
+754292004,HM215140.1,"UNVERIFIED: Bacillus pumilus strain BPT-25 keratinase precursor-like gene, partial sequence",Bacillus pumilus,1408,810,dna,2015/02/11,2015
+746644871,KJ783444.1,"Geobacillus stearothermophilus strain AD-11 keratinase gene, complete cds",Geobacillus stearothermophilus,1422,1641,dna,2015/01/17,2015
+727929351,KM494493.1,"Bacillus subtilis strain RSE163 keratinase (kerC) gene, complete cds",Bacillus subtilis,1423,1342,dna,2014/12/07,2014
+656355212,KJ642621.1,"Bacillus licheniformis strain N5 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2014/06/21,2014
+514482319,KF152966.1,"Brevibacillus brevis strain US575 serine alkaline keratinase (ker) gene, complete cds",Brevibacillus brevis,1393,1343,dna,2014/06/03,2014
+482677486,KC763971.1,"Stenotrophomonas maltophilia strain BBE11-1 keratinase (KerSMF) gene, partial cds",Stenotrophomonas maltophilia,40324,1743,dna,2013/04/29,2013
+482514711,KC814180.1,"Stenotrophomonas maltophilia strain BBE11-1 keratinase gene, partial cds",Stenotrophomonas maltophilia,40324,1905,dna,2013/04/28,2013
+511676715,KC621294.1,"Bacillus circulans strain DZ100 serine alkaline keratinase (sapB) gene, complete cds",Niallia circulans,1397,1168,dna,2013/06/13,2013
+407280557,JX504681.1,"Bacillus licheniformis strain BBE11-1 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2012/10/03,2012
+358680690,JN859581.1,"Bacillus licheniformis strain S90 keratinase gene, partial cds",Bacillus licheniformis,1402,1050,dna,2011/12/06,2011
+443298520,KC176725.1,"Bacillus methylotrophicus strain KJN-2 keratinase (kerBPN) gene, complete cds",Bacillus velezensis,492670,1149,dna,2013/01/27,2013
+336462510,JF800188.1,"Bacillus sp. MKR1 keratinase gene, complete cds",Bacillus sp. MKR1,884012,1140,dna,2011/06/26,2011
+222353759,FJ619651.1,"Bacillus pumilus strain A1 keratinase precursor, gene, complete cds",Bacillus pumilus,1408,1199,dna,2009/02/07,2009
+300429855,HM219183.1,"Bacillus pumilus strain KS12 keratinase gene, complete cds",Bacillus pumilus,1408,1152,dna,2010/07/17,2010
+301352761,HM590650.1,"Stenotrophomonas maltophilia strain YHYJ-1 keratinase (kerF) gene, complete cds",Stenotrophomonas maltophilia,40324,1818,dna,2010/08/01,2010
+300390463,HM154527.1,"Bacillus licheniformis strain DS23 thermostable keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2010/07/14,2010
+50363120,AY665611.1,"Bacillus mojavensis keratinase gene, complete cds",Bacillus mojavensis,72360,1140,dna,2004/07/24,2004
+169883789,EU502844.1,"Bacillus licheniformis strain RPk keratinase gene, complete cds",Bacillus licheniformis,1402,1457,dna,2008/03/19,2008
+46277125,AY590140.1,"Bacillus licheniformis strain RG1 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2004/04/13,2004
+225196215,FJ765514.1,"Stenotrophomonas maltophilia strain YHYJ-1 keratinase (kerD) gene, complete cds",Stenotrophomonas maltophilia,40324,1905,dna,2009/03/23,2009
+67866985,DQ071570.1,"Bacillus licheniformis strain MKU 3 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2005/06/21,2005
+67866983,DQ071569.1,"Bacillus licheniformis strain MKU 2 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2005/06/21,2005
+2993367416,PV702345.1,"Bacillus pumilus strain SG9462 keratinase I gene, complete cds",Bacillus pumilus,1408,1152,dna,2025/06/14,2025
+2809798053,PQ362380.1,"Bacillus licheniformis strain KCTC 1026 keratinase (kerH) gene, complete cds",Bacillus licheniformis,1402,1140,dna,2024/09/30,2024
+2752716030,PP942533.1,"Stenotrophomonas sp. strain GSGU2024 keratinase (kerGS) gene, complete cds",Stenotrophomonas sp.,69392,1769,dna,2024/07/06,2024
+2705993528,PP540287.1,"Bacillus sp. (in: firmicutes) strain RMGU2024 keratinase precursor (kerRM) gene, complete cds",Bacillus sp. (in: firmicutes),1409,1194,dna,2024/04/03,2024
+2705993526,PP540286.1,"Bacillus sp. (in: firmicutes) strain MSGU2024 keratinase (kerFS) gene, partial cds",Bacillus sp. (in: firmicutes),1409,855,dna,2024/04/03,2024
+2618797045,OR733336.1,"Bacillus subtilis strain bta keratinase gene, partial cds",Bacillus subtilis,1423,1110,dna,2023/11/13,2023
+2563104457,OR067194.1,"Bacillus velezensis strain TCCC11320 keratinase gene, complete cds",Bacillus velezensis,492670,1092,dna,2023/08/20,2023
+2563104455,OR050539.1,"Bacillus licheniformis strain ATCC 14580 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2023/08/20,2023
+2445174546,ON604954.1,"Geobacillus thermodenitrificans strain PS41-FP putative keratinase gene, partial cds",Geobacillus thermodenitrificans,33940,217,dna,2023/02/21,2023
+2445170977,ON630913.1,"Bacillus subtilis strain PS3-FP.ab1 keratinase (ker) gene, partial cds",Bacillus subtilis,1423,895,dna,2023/02/21,2023
+2445170975,ON630912.1,"Bacillus licheniformis strain PS62-FP.ab1 keratinase (ker) gene, partial cds",Bacillus licheniformis,1402,852,dna,2023/02/21,2023
+2445170973,ON630911.1,"Bacillus thuringiensis strain PS8-FP.ab1 keratinase (ker) gene, partial cds",Bacillus thuringiensis,1428,446,dna,2023/02/21,2023
+2428737136,OM988160.1,"Pseudomonas aeruginosa strain Gxun-7 keratinase gene, partial cds",Pseudomonas aeruginosa,287,1428,dna,2023/01/23,2023
+2426205223,OM992359.1,"Pseudomonas aeruginosa strain Gxun-7 keratinase kp gene, partial cds",Pseudomonas aeruginosa,287,1428,dna,2023/01/17,2023
+2426205220,OM992358.1,"Pseudomonas aeruginosa strain Gxun-7 keratinase kp2 gene, partial cds",Pseudomonas aeruginosa,287,1425,dna,2023/01/17,2023
+2347852678,OM417521.1,"Pseudomonas aeruginosa strain Gxun-30 keratinase kp2 gene, partial cds",Pseudomonas aeruginosa,287,1351,dna,2022/11/30,2022
+2347773850,OM273741.1,"Pseudomonas aeruginosa strain Gxun-7 keratinase (kp2) gene, partial cds",Pseudomonas aeruginosa,287,1350,dna,2022/11/30,2022
+2283489492,MZ147000.1,"Bacillus velezensis strain SYBC H47 keratinase gene, complete cds",Bacillus velezensis,492670,1149,dna,2022/08/13,2022
+2254959123,MZ516797.1,"Bacillus sp. (in: Bacteria) strain FJ-3-16 keratinase (kerFJ) gene, complete cds",Bacillus sp. (in: firmicutes),1409,1149,dna,2022/06/17,2022
+2211510895,OL685340.1,"UNVERIFIED: Bacillus pumilus strain AR57 keratinase 2-like (ker2) gene, partial sequence",Bacillus pumilus,1408,1148,dna,2022/03/29,2022
+2211510894,OL685339.1,"UNVERIFIED: Bacillus pumilus strain AR57 keratinase 1-like (ker1) gene, partial sequence",Bacillus pumilus,1408,1147,dna,2022/03/29,2022
+2172924864,OL448306.1,"Bacillus cereus group sp. strain KerS39ems keratinase gene, partial cds",Bacillus cereus group sp.,2559710,809,dna,2022/01/10,2022
+2172924862,OL448305.1,"Bacillus cereus group sp. strain KerS39 keratinase gene, partial cds",Bacillus cereus group sp.,2559710,886,dna,2022/01/10,2022
+2172924860,OL448304.1,"Bacillus cereus group sp. strain kerS26uv keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924858,OL448303.1,"Bacillus cereus group sp. strain kerS26 keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924856,OL448302.1,"Bacillus cereus group sp. strain KerS15ems keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924854,OL448301.1,"Bacillus cereus group sp. strain KerS15 keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924852,OL448300.1,"Bacillus cereus group sp. strain KerS13uv+ems keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924850,OL448299.1,"Bacillus cereus group sp. strain KerS13uv keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924848,OL448298.1,"Bacillus cereus group sp. strain KerS13 keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924846,OL448297.1,"Bacillus cereus group sp. strain KerS1ems keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924844,OL448296.1,"Bacillus cereus group sp. strain KerS1 keratinase gene, partial cds",Bacillus cereus group sp.,2559710,704,dna,2022/01/10,2022
+2108693310,OK033361.1,"Bacillus sp. (in: Bacteria) strain FHNM keratinase gene, partial cds",Bacillus sp. (in: firmicutes),1409,658,dna,2021/10/13,2021
+2108693308,OK033360.1,"Bacillus sp. (in: Bacteria) strain NFH5 keratinase gene, partial cds",Bacillus sp. (in: firmicutes),1409,876,dna,2021/10/13,2021
+2033716483,MW477684.1,"Bacillus mojavensis strain BK107 keratinase gene, partial cds",Bacillus mojavensis,72360,1110,dna,2021/05/12,2021
+2030387037,MW504716.1,"Bacillus licheniformis strain BK402 keratinase gene, partial cds",Bacillus licheniformis,1402,1134,dna,2021/05/03,2021
+2030387035,MW504715.1,"Bacillus paralicheniformis strain BK401 keratinase gene, partial cds",Bacillus paralicheniformis,1648923,1134,dna,2021/05/03,2021
+2030387033,MW504714.1,"Bacillus tequilensis strain BK206 keratinase gene, partial cds",Bacillus tequilensis,227866,1110,dna,2021/05/03,2021
+2030387031,MW504713.1,"Bacillus pumilus strain BK111 keratinase gene, partial cds",Bacillus pumilus,1408,1059,dna,2021/05/03,2021
+2030387029,MW504712.1,"Bacillus tequilensis strain BK324 keratinase gene, partial cds",Bacillus tequilensis,227866,1110,dna,2021/05/03,2021
+2025687690,MW401230.1,"Bacillus pumilus strain FUM120 keratinase gene, partial cds",Bacillus pumilus,1408,1152,dna,2021/04/19,2021
+1905076364,MT268136.1,"Bacillus sp. (in: firmicutes) strain CSK2 keratinase (kerCSK2) gene, partial cds",Bacillus sp. (in: firmicutes),1409,471,dna,2020/09/30,2020
+1905076362,MT268135.1,"Bacillus sp. (in: firmicutes) strain Okoh-K1 keratinase (kerBOK1) gene, partial cds",Bacillus sp. (in: firmicutes),1409,483,dna,2020/09/30,2020
+1905076360,MT268134.1,"Bacillus sp. (in: firmicutes) strain FPF-1 keratinase (kerBFPF1) gene, partial cds",Bacillus sp. (in: firmicutes),1409,491,dna,2020/09/30,2020
+1905076366,MT268133.1,"Bacillus sp. (in: firmicutes) strain Nnolim-K1 keratinase (kerBNK1) gene, partial cds",Bacillus sp. (in: firmicutes),1409,486,dna,2020/09/21,2020
+1799637673,MN256128.1,"Bacillus subtilis strain S1-4 keratinase KER71 gene, complete cds",Bacillus subtilis,1423,1146,dna,2020/01/27,2020
+1772913216,MN061494.1,"Amycolatopsis sp. strain BJA-103 keratinase gene, complete cds",Amycolatopsis sp.,37632,1251,dna,2019/11/11,2019
+1482646321,MG738728.1,"Bacillus sp. LCB12 keratinase gene, complete cds",Bacillus sp. LCB12,2364536,1140,dna,2019/02/09,2019
+1384791298,MF327392.1,"Bacillus licheniformis strain Y6 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2018/05/05,2018
+1235806981,KY914477.1,"Actinomadura keratinilytica strain Cpt20 serine alkaline keratinase preproprotein (kerB) gene, complete cds",Actinomadura keratinilytica,547461,1845,dna,2018/05/06,2018
+1172213218,LC216397.1,"Brevibacillus sp. KN50 kn50 gene for keratinase gene, complete cds",Brevibacillus sp. KN50,1960305,1254,dna,2017/04/01,2017
+1127547531,KX155576.1,"Bacillus thuringiensis strain S3KUBOT keratinase (ker) gene, ker-S3KUBOT allele, partial cds",Bacillus thuringiensis,1428,1041,dna,2017/01/09,2017
+351000220,JF923748.1,"Bacillus licheniformis strain ER-15 keratinase ker BL gene, partial cds",Bacillus licheniformis,1402,1110,dna,2011/10/18,2011
+338172912,HQ694987.1,"Bacillus cereus strain Wu6 keratinase (ker6) gene, partial cds",Bacillus cereus,1396,1104,dna,2011/06/29,2011
+164654844,EU360728.1,"Bacillus subtilis strain BF20 keratinase gene, partial cds",Bacillus subtilis,1423,1065,dna,2008/01/16,2008
+53828140,AY744703.1,"Streptomyces sp. OWU 1633 keratinase enzyme gene, partial cds",Streptomyces sp. OWU 1633,295130,540,dna,2004/10/10,2004
+310007192,HM452164.1,"Pseudomonas aeruginosa strain KS-1 keratinase KP1 gene, partial cds",Pseudomonas aeruginosa,287,1596,dna,2010/10/30,2010
+310007190,HM452163.1,"Pseudomonas aeruginosa strain KS-1 keratinase KP2 gene, partial cds",Pseudomonas aeruginosa,287,1428,dna,2010/10/30,2010
+1042810636,KX184832.1,"Bacillus pumilus strain C4 keratinase Ker2 gene, complete cds",Bacillus pumilus,1408,1152,dna,2016/07/13,2016
+1042810634,KX184831.1,"Bacillus pumilus strain C4 keratinase Ker1 gene, complete cds",Bacillus pumilus,1408,1152,dna,2016/07/13,2016
+973694714,KT844950.1,"Bacillus subtilis strain Egy-Ker keratinase gene, partial cds",Bacillus subtilis,1423,1130,dna,2016/01/17,2016
+973694711,KT844948.1,"Mutant Bacillus subtilis strain Egy-KerM keratinase gene, partial cds",Bacillus subtilis,1423,1130,dna,2016/01/17,2016
+923042740,KP994171.1,"Bifidobacterium longum strain W211 keratinase (KerSMD) gene, partial cds; transposon Tn5432 insertion sequence IS1249a transposase (tnp1249a) gene, complete cds, 23S rRNA N-6-methyltransferase (ermX) gene, complete cds, and insertion sequence IS1249b transposase (tnp249b) gene, complete cds; and putative auxin efflux carrier protein (PIN1) gene, complete cds",Bifidobacterium longum,216816,6327,dna,2015/09/01,2015
+893694190,KR868996.1,"Bacillus amyloliquefaciens strain K11 keratinase (kerK) gene, complete cds",Bacillus amyloliquefaciens,1390,1368,dna,2015/07/22,2015
+846451729,KP694221.1,"Bacillus tequilensis strain Q7 serine neutral keratinase preproprotein (ker) gene, complete cds",Bacillus tequilensis,227866,1343,dna,2015/06/28,2015
+823327613,KP893107.1,"Bacillus licheniformis strain UTM107 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2015/05/31,2015
+668730482,KJ661542.1,"Bacillus licheniformis strain MZK05 keratinase (kerA) gene, complete cds",Bacillus licheniformis,1402,1140,dna,2015/04/05,2015
+760865155,LC029453.1,"Stenotrophomonas maltophilia KER N4 gene for keratinase, complete cds, strain: N4",Stenotrophomonas maltophilia,40324,1770,dna,2015/02/24,2015
+754292004,HM215140.1,"UNVERIFIED: Bacillus pumilus strain BPT-25 keratinase precursor-like gene, partial sequence",Bacillus pumilus,1408,810,dna,2015/02/11,2015
+746644871,KJ783444.1,"Geobacillus stearothermophilus strain AD-11 keratinase gene, complete cds",Geobacillus stearothermophilus,1422,1641,dna,2015/01/17,2015
+727929351,KM494493.1,"Bacillus subtilis strain RSE163 keratinase (kerC) gene, complete cds",Bacillus subtilis,1423,1342,dna,2014/12/07,2014
+656355212,KJ642621.1,"Bacillus licheniformis strain N5 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2014/06/21,2014
+514482319,KF152966.1,"Brevibacillus brevis strain US575 serine alkaline keratinase (ker) gene, complete cds",Brevibacillus brevis,1393,1343,dna,2014/06/03,2014
+482677486,KC763971.1,"Stenotrophomonas maltophilia strain BBE11-1 keratinase (KerSMF) gene, partial cds",Stenotrophomonas maltophilia,40324,1743,dna,2013/04/29,2013
+482514711,KC814180.1,"Stenotrophomonas maltophilia strain BBE11-1 keratinase gene, partial cds",Stenotrophomonas maltophilia,40324,1905,dna,2013/04/28,2013
+511676715,KC621294.1,"Bacillus circulans strain DZ100 serine alkaline keratinase (sapB) gene, complete cds",Niallia circulans,1397,1168,dna,2013/06/13,2013
+407280557,JX504681.1,"Bacillus licheniformis strain BBE11-1 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2012/10/03,2012
+358680690,JN859581.1,"Bacillus licheniformis strain S90 keratinase gene, partial cds",Bacillus licheniformis,1402,1050,dna,2011/12/06,2011
+443298520,KC176725.1,"Bacillus methylotrophicus strain KJN-2 keratinase (kerBPN) gene, complete cds",Bacillus velezensis,492670,1149,dna,2013/01/27,2013
+336462510,JF800188.1,"Bacillus sp. MKR1 keratinase gene, complete cds",Bacillus sp. MKR1,884012,1140,dna,2011/06/26,2011
+222353759,FJ619651.1,"Bacillus pumilus strain A1 keratinase precursor, gene, complete cds",Bacillus pumilus,1408,1199,dna,2009/02/07,2009
+300429855,HM219183.1,"Bacillus pumilus strain KS12 keratinase gene, complete cds",Bacillus pumilus,1408,1152,dna,2010/07/17,2010
+301352761,HM590650.1,"Stenotrophomonas maltophilia strain YHYJ-1 keratinase (kerF) gene, complete cds",Stenotrophomonas maltophilia,40324,1818,dna,2010/08/01,2010
+300390463,HM154527.1,"Bacillus licheniformis strain DS23 thermostable keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2010/07/14,2010
+50363120,AY665611.1,"Bacillus mojavensis keratinase gene, complete cds",Bacillus mojavensis,72360,1140,dna,2004/07/24,2004
+169883789,EU502844.1,"Bacillus licheniformis strain RPk keratinase gene, complete cds",Bacillus licheniformis,1402,1457,dna,2008/03/19,2008
+46277125,AY590140.1,"Bacillus licheniformis strain RG1 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2004/04/13,2004
+225196215,FJ765514.1,"Stenotrophomonas maltophilia strain YHYJ-1 keratinase (kerD) gene, complete cds",Stenotrophomonas maltophilia,40324,1905,dna,2009/03/23,2009
+67866985,DQ071570.1,"Bacillus licheniformis strain MKU 3 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2005/06/21,2005
+67866983,DQ071569.1,"Bacillus licheniformis strain MKU 2 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2005/06/21,2005

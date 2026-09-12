@@ -1,0 +1,262 @@
+uid,accession,title,organism,taxid,length,mol_type,create_date,year
+2993367416,PV702345.1,"Bacillus pumilus strain SG9462 keratinase I gene, complete cds",Bacillus pumilus,1408,1152,dna,2025/06/14,2025
+2809798053,PQ362380.1,"Bacillus licheniformis strain KCTC 1026 keratinase (kerH) gene, complete cds",Bacillus licheniformis,1402,1140,dna,2024/09/30,2024
+2752716030,PP942533.1,"Stenotrophomonas sp. strain GSGU2024 keratinase (kerGS) gene, complete cds",Stenotrophomonas sp.,69392,1769,dna,2024/07/06,2024
+2705993528,PP540287.1,"Bacillus sp. (in: firmicutes) strain RMGU2024 keratinase precursor (kerRM) gene, complete cds",Bacillus sp. (in: firmicutes),1409,1194,dna,2024/04/03,2024
+2705993526,PP540286.1,"Bacillus sp. (in: firmicutes) strain MSGU2024 keratinase (kerFS) gene, partial cds",Bacillus sp. (in: firmicutes),1409,855,dna,2024/04/03,2024
+2618797045,OR733336.1,"Bacillus subtilis strain bta keratinase gene, partial cds",Bacillus subtilis,1423,1110,dna,2023/11/13,2023
+2563104457,OR067194.1,"Bacillus velezensis strain TCCC11320 keratinase gene, complete cds",Bacillus velezensis,492670,1092,dna,2023/08/20,2023
+2563104455,OR050539.1,"Bacillus licheniformis strain ATCC 14580 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2023/08/20,2023
+2445174546,ON604954.1,"Geobacillus thermodenitrificans strain PS41-FP putative keratinase gene, partial cds",Geobacillus thermodenitrificans,33940,217,dna,2023/02/21,2023
+2445170977,ON630913.1,"Bacillus subtilis strain PS3-FP.ab1 keratinase (ker) gene, partial cds",Bacillus subtilis,1423,895,dna,2023/02/21,2023
+2445170975,ON630912.1,"Bacillus licheniformis strain PS62-FP.ab1 keratinase (ker) gene, partial cds",Bacillus licheniformis,1402,852,dna,2023/02/21,2023
+2445170973,ON630911.1,"Bacillus thuringiensis strain PS8-FP.ab1 keratinase (ker) gene, partial cds",Bacillus thuringiensis,1428,446,dna,2023/02/21,2023
+2428737136,OM988160.1,"Pseudomonas aeruginosa strain Gxun-7 keratinase gene, partial cds",Pseudomonas aeruginosa,287,1428,dna,2023/01/23,2023
+2426205223,OM992359.1,"Pseudomonas aeruginosa strain Gxun-7 keratinase kp gene, partial cds",Pseudomonas aeruginosa,287,1428,dna,2023/01/17,2023
+2426205220,OM992358.1,"Pseudomonas aeruginosa strain Gxun-7 keratinase kp2 gene, partial cds",Pseudomonas aeruginosa,287,1425,dna,2023/01/17,2023
+2347852678,OM417521.1,"Pseudomonas aeruginosa strain Gxun-30 keratinase kp2 gene, partial cds",Pseudomonas aeruginosa,287,1351,dna,2022/11/30,2022
+2347773850,OM273741.1,"Pseudomonas aeruginosa strain Gxun-7 keratinase (kp2) gene, partial cds",Pseudomonas aeruginosa,287,1350,dna,2022/11/30,2022
+2283489492,MZ147000.1,"Bacillus velezensis strain SYBC H47 keratinase gene, complete cds",Bacillus velezensis,492670,1149,dna,2022/08/13,2022
+2254959123,MZ516797.1,"Bacillus sp. (in: Bacteria) strain FJ-3-16 keratinase (kerFJ) gene, complete cds",Bacillus sp. (in: firmicutes),1409,1149,dna,2022/06/17,2022
+2211510895,OL685340.1,"UNVERIFIED: Bacillus pumilus strain AR57 keratinase 2-like (ker2) gene, partial sequence",Bacillus pumilus,1408,1148,dna,2022/03/29,2022
+2211510894,OL685339.1,"UNVERIFIED: Bacillus pumilus strain AR57 keratinase 1-like (ker1) gene, partial sequence",Bacillus pumilus,1408,1147,dna,2022/03/29,2022
+2172924864,OL448306.1,"Bacillus cereus group sp. strain KerS39ems keratinase gene, partial cds",Bacillus cereus group sp.,2559710,809,dna,2022/01/10,2022
+2172924862,OL448305.1,"Bacillus cereus group sp. strain KerS39 keratinase gene, partial cds",Bacillus cereus group sp.,2559710,886,dna,2022/01/10,2022
+2172924860,OL448304.1,"Bacillus cereus group sp. strain kerS26uv keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924858,OL448303.1,"Bacillus cereus group sp. strain kerS26 keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924856,OL448302.1,"Bacillus cereus group sp. strain KerS15ems keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924854,OL448301.1,"Bacillus cereus group sp. strain KerS15 keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924852,OL448300.1,"Bacillus cereus group sp. strain KerS13uv+ems keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924850,OL448299.1,"Bacillus cereus group sp. strain KerS13uv keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924848,OL448298.1,"Bacillus cereus group sp. strain KerS13 keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924846,OL448297.1,"Bacillus cereus group sp. strain KerS1ems keratinase gene, complete cds",Bacillus cereus group sp.,2559710,1194,dna,2022/01/10,2022
+2172924844,OL448296.1,"Bacillus cereus group sp. strain KerS1 keratinase gene, partial cds",Bacillus cereus group sp.,2559710,704,dna,2022/01/10,2022
+2108693310,OK033361.1,"Bacillus sp. (in: Bacteria) strain FHNM keratinase gene, partial cds",Bacillus sp. (in: firmicutes),1409,658,dna,2021/10/13,2021
+2108693308,OK033360.1,"Bacillus sp. (in: Bacteria) strain NFH5 keratinase gene, partial cds",Bacillus sp. (in: firmicutes),1409,876,dna,2021/10/13,2021
+2033716483,MW477684.1,"Bacillus mojavensis strain BK107 keratinase gene, partial cds",Bacillus mojavensis,72360,1110,dna,2021/05/12,2021
+2030387037,MW504716.1,"Bacillus licheniformis strain BK402 keratinase gene, partial cds",Bacillus licheniformis,1402,1134,dna,2021/05/03,2021
+2030387035,MW504715.1,"Bacillus paralicheniformis strain BK401 keratinase gene, partial cds",Bacillus paralicheniformis,1648923,1134,dna,2021/05/03,2021
+2030387033,MW504714.1,"Bacillus tequilensis strain BK206 keratinase gene, partial cds",Bacillus tequilensis,227866,1110,dna,2021/05/03,2021
+2030387031,MW504713.1,"Bacillus pumilus strain BK111 keratinase gene, partial cds",Bacillus pumilus,1408,1059,dna,2021/05/03,2021
+2030387029,MW504712.1,"Bacillus tequilensis strain BK324 keratinase gene, partial cds",Bacillus tequilensis,227866,1110,dna,2021/05/03,2021
+2025687690,MW401230.1,"Bacillus pumilus strain FUM120 keratinase gene, partial cds",Bacillus pumilus,1408,1152,dna,2021/04/19,2021
+1905076364,MT268136.1,"Bacillus sp. (in: firmicutes) strain CSK2 keratinase (kerCSK2) gene, partial cds",Bacillus sp. (in: firmicutes),1409,471,dna,2020/09/30,2020
+1905076362,MT268135.1,"Bacillus sp. (in: firmicutes) strain Okoh-K1 keratinase (kerBOK1) gene, partial cds",Bacillus sp. (in: firmicutes),1409,483,dna,2020/09/30,2020
+1905076360,MT268134.1,"Bacillus sp. (in: firmicutes) strain FPF-1 keratinase (kerBFPF1) gene, partial cds",Bacillus sp. (in: firmicutes),1409,491,dna,2020/09/30,2020
+1905076366,MT268133.1,"Bacillus sp. (in: firmicutes) strain Nnolim-K1 keratinase (kerBNK1) gene, partial cds",Bacillus sp. (in: firmicutes),1409,486,dna,2020/09/21,2020
+1799637673,MN256128.1,"Bacillus subtilis strain S1-4 keratinase KER71 gene, complete cds",Bacillus subtilis,1423,1146,dna,2020/01/27,2020
+1772913216,MN061494.1,"Amycolatopsis sp. strain BJA-103 keratinase gene, complete cds",Amycolatopsis sp.,37632,1251,dna,2019/11/11,2019
+1482646321,MG738728.1,"Bacillus sp. LCB12 keratinase gene, complete cds",Bacillus sp. LCB12,2364536,1140,dna,2019/02/09,2019
+1384791298,MF327392.1,"Bacillus licheniformis strain Y6 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2018/05/05,2018
+1235806981,KY914477.1,"Actinomadura keratinilytica strain Cpt20 serine alkaline keratinase preproprotein (kerB) gene, complete cds",Actinomadura keratinilytica,547461,1845,dna,2018/05/06,2018
+1172213218,LC216397.1,"Brevibacillus sp. KN50 kn50 gene for keratinase gene, complete cds",Brevibacillus sp. KN50,1960305,1254,dna,2017/04/01,2017
+1127547531,KX155576.1,"Bacillus thuringiensis strain S3KUBOT keratinase (ker) gene, ker-S3KUBOT allele, partial cds",Bacillus thuringiensis,1428,1041,dna,2017/01/09,2017
+351000220,JF923748.1,"Bacillus licheniformis strain ER-15 keratinase ker BL gene, partial cds",Bacillus licheniformis,1402,1110,dna,2011/10/18,2011
+338172912,HQ694987.1,"Bacillus cereus strain Wu6 keratinase (ker6) gene, partial cds",Bacillus cereus,1396,1104,dna,2011/06/29,2011
+164654844,EU360728.1,"Bacillus subtilis strain BF20 keratinase gene, partial cds",Bacillus subtilis,1423,1065,dna,2008/01/16,2008
+53828140,AY744703.1,"Streptomyces sp. OWU 1633 keratinase enzyme gene, partial cds",Streptomyces sp. OWU 1633,295130,540,dna,2004/10/10,2004
+310007192,HM452164.1,"Pseudomonas aeruginosa strain KS-1 keratinase KP1 gene, partial cds",Pseudomonas aeruginosa,287,1596,dna,2010/10/30,2010
+310007190,HM452163.1,"Pseudomonas aeruginosa strain KS-1 keratinase KP2 gene, partial cds",Pseudomonas aeruginosa,287,1428,dna,2010/10/30,2010
+1042810636,KX184832.1,"Bacillus pumilus strain C4 keratinase Ker2 gene, complete cds",Bacillus pumilus,1408,1152,dna,2016/07/13,2016
+1042810634,KX184831.1,"Bacillus pumilus strain C4 keratinase Ker1 gene, complete cds",Bacillus pumilus,1408,1152,dna,2016/07/13,2016
+973694714,KT844950.1,"Bacillus subtilis strain Egy-Ker keratinase gene, partial cds",Bacillus subtilis,1423,1130,dna,2016/01/17,2016
+973694711,KT844948.1,"Mutant Bacillus subtilis strain Egy-KerM keratinase gene, partial cds",Bacillus subtilis,1423,1130,dna,2016/01/17,2016
+923042740,KP994171.1,"Bifidobacterium longum strain W211 keratinase (KerSMD) gene, partial cds; transposon Tn5432 insertion sequence IS1249a transposase (tnp1249a) gene, complete cds, 23S rRNA N-6-methyltransferase (ermX) gene, complete cds, and insertion sequence IS1249b transposase (tnp249b) gene, complete cds; and putative auxin efflux carrier protein (PIN1) gene, complete cds",Bifidobacterium longum,216816,6327,dna,2015/09/01,2015
+893694190,KR868996.1,"Bacillus amyloliquefaciens strain K11 keratinase (kerK) gene, complete cds",Bacillus amyloliquefaciens,1390,1368,dna,2015/07/22,2015
+846451729,KP694221.1,"Bacillus tequilensis strain Q7 serine neutral keratinase preproprotein (ker) gene, complete cds",Bacillus tequilensis,227866,1343,dna,2015/06/28,2015
+823327613,KP893107.1,"Bacillus licheniformis strain UTM107 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2015/05/31,2015
+668730482,KJ661542.1,"Bacillus licheniformis strain MZK05 keratinase (kerA) gene, complete cds",Bacillus licheniformis,1402,1140,dna,2015/04/05,2015
+760865155,LC029453.1,"Stenotrophomonas maltophilia KER N4 gene for keratinase, complete cds, strain: N4",Stenotrophomonas maltophilia,40324,1770,dna,2015/02/24,2015
+754292004,HM215140.1,"UNVERIFIED: Bacillus pumilus strain BPT-25 keratinase precursor-like gene, partial sequence",Bacillus pumilus,1408,810,dna,2015/02/11,2015
+746644871,KJ783444.1,"Geobacillus stearothermophilus strain AD-11 keratinase gene, complete cds",Geobacillus stearothermophilus,1422,1641,dna,2015/01/17,2015
+727929351,KM494493.1,"Bacillus subtilis strain RSE163 keratinase (kerC) gene, complete cds",Bacillus subtilis,1423,1342,dna,2014/12/07,2014
+656355212,KJ642621.1,"Bacillus licheniformis strain N5 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2014/06/21,2014
+514482319,KF152966.1,"Brevibacillus brevis strain US575 serine alkaline keratinase (ker) gene, complete cds",Brevibacillus brevis,1393,1343,dna,2014/06/03,2014
+482677486,KC763971.1,"Stenotrophomonas maltophilia strain BBE11-1 keratinase (KerSMF) gene, partial cds",Stenotrophomonas maltophilia,40324,1743,dna,2013/04/29,2013
+482514711,KC814180.1,"Stenotrophomonas maltophilia strain BBE11-1 keratinase gene, partial cds",Stenotrophomonas maltophilia,40324,1905,dna,2013/04/28,2013
+511676715,KC621294.1,"Bacillus circulans strain DZ100 serine alkaline keratinase (sapB) gene, complete cds",Niallia circulans,1397,1168,dna,2013/06/13,2013
+407280557,JX504681.1,"Bacillus licheniformis strain BBE11-1 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2012/10/03,2012
+358680690,JN859581.1,"Bacillus licheniformis strain S90 keratinase gene, partial cds",Bacillus licheniformis,1402,1050,dna,2011/12/06,2011
+443298520,KC176725.1,"Bacillus methylotrophicus strain KJN-2 keratinase (kerBPN) gene, complete cds",Bacillus velezensis,492670,1149,dna,2013/01/27,2013
+336462510,JF800188.1,"Bacillus sp. MKR1 keratinase gene, complete cds",Bacillus sp. MKR1,884012,1140,dna,2011/06/26,2011
+222353759,FJ619651.1,"Bacillus pumilus strain A1 keratinase precursor, gene, complete cds",Bacillus pumilus,1408,1199,dna,2009/02/07,2009
+300429855,HM219183.1,"Bacillus pumilus strain KS12 keratinase gene, complete cds",Bacillus pumilus,1408,1152,dna,2010/07/17,2010
+301352761,HM590650.1,"Stenotrophomonas maltophilia strain YHYJ-1 keratinase (kerF) gene, complete cds",Stenotrophomonas maltophilia,40324,1818,dna,2010/08/01,2010
+300390463,HM154527.1,"Bacillus licheniformis strain DS23 thermostable keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2010/07/14,2010
+50363120,AY665611.1,"Bacillus mojavensis keratinase gene, complete cds",Bacillus mojavensis,72360,1140,dna,2004/07/24,2004
+169883789,EU502844.1,"Bacillus licheniformis strain RPk keratinase gene, complete cds",Bacillus licheniformis,1402,1457,dna,2008/03/19,2008
+46277125,AY590140.1,"Bacillus licheniformis strain RG1 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2004/04/13,2004
+225196215,FJ765514.1,"Stenotrophomonas maltophilia strain YHYJ-1 keratinase (kerD) gene, complete cds",Stenotrophomonas maltophilia,40324,1905,dna,2009/03/23,2009
+67866985,DQ071570.1,"Bacillus licheniformis strain MKU 3 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2005/06/21,2005
+67866983,DQ071569.1,"Bacillus licheniformis strain MKU 2 keratinase gene, complete cds",Bacillus licheniformis,1402,1140,dna,2005/06/21,2005
+2048696563,NZ_JABTTS010000071.1,"Streptomyces sp. CHD11 scaffold71_size1826, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,1826,dna,2021/06/04,2021
+2048696562,NZ_JABTTS010000070.1,"Streptomyces sp. CHD11 scaffold70_size1988, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,1988,dna,2021/06/04,2021
+2048696561,NZ_JABTTS010000069.1,"Streptomyces sp. CHD11 scaffold69_size2693, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,2693,dna,2021/06/04,2021
+2048696560,NZ_JABTTS010000068.1,"Streptomyces sp. CHD11 scaffold68_size3330, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,3330,dna,2021/06/04,2021
+2048696559,NZ_JABTTS010000067.1,"Streptomyces sp. CHD11 scaffold67_size3615, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,3615,dna,2021/06/04,2021
+2048696558,NZ_JABTTS010000066.1,"Streptomyces sp. CHD11 scaffold66_size3681, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,3681,dna,2021/06/04,2021
+2048696557,NZ_JABTTS010000065.1,"Streptomyces sp. CHD11 scaffold65_size4624, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,4624,dna,2021/06/04,2021
+2048696556,NZ_JABTTS010000064.1,"Streptomyces sp. CHD11 scaffold64_size7195, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,7195,dna,2021/06/04,2021
+2048696555,NZ_JABTTS010000063.1,"Streptomyces sp. CHD11 scaffold63_size8518, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,8518,dna,2021/06/04,2021
+2048696554,NZ_JABTTS010000062.1,"Streptomyces sp. CHD11 scaffold62_size8996, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,8996,dna,2021/06/04,2021
+2048696553,NZ_JABTTS010000061.1,"Streptomyces sp. CHD11 scaffold61_size10472, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,10472,dna,2021/06/04,2021
+2048696552,NZ_JABTTS010000060.1,"Streptomyces sp. CHD11 scaffold60_size9802, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,9802,dna,2021/06/04,2021
+2048696551,NZ_JABTTS010000059.1,"Streptomyces sp. CHD11 scaffold59_size10643, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,10643,dna,2021/06/04,2021
+2048696550,NZ_JABTTS010000058.1,"Streptomyces sp. CHD11 scaffold58_size12299, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,12299,dna,2021/06/04,2021
+2048696549,NZ_JABTTS010000057.1,"Streptomyces sp. CHD11 scaffold57_size12694, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,12694,dna,2021/06/04,2021
+2048696548,NZ_JABTTS010000056.1,"Streptomyces sp. CHD11 scaffold56_size13898, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,13898,dna,2021/06/04,2021
+2048696547,NZ_JABTTS010000055.1,"Streptomyces sp. CHD11 scaffold55_size14847, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,14847,dna,2021/06/04,2021
+2048696546,NZ_JABTTS010000054.1,"Streptomyces sp. CHD11 scaffold54_size15424, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,15424,dna,2021/06/04,2021
+2048696545,NZ_JABTTS010000053.1,"Streptomyces sp. CHD11 scaffold53_size18024, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,18024,dna,2021/06/04,2021
+2048696544,NZ_JABTTS010000052.1,"Streptomyces sp. CHD11 scaffold52_size18341, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,18341,dna,2021/06/04,2021
+2048696543,NZ_JABTTS010000051.1,"Streptomyces sp. CHD11 scaffold51_size22663, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,22663,dna,2021/06/04,2021
+2048696542,NZ_JABTTS010000050.1,"Streptomyces sp. CHD11 scaffold50_size23791, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,23791,dna,2021/06/04,2021
+2048696541,NZ_JABTTS010000049.1,"Streptomyces sp. CHD11 scaffold49_size25381, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,25381,dna,2021/06/04,2021
+2048696540,NZ_JABTTS010000048.1,"Streptomyces sp. CHD11 scaffold48_size25989, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,25989,dna,2021/06/04,2021
+2048696539,NZ_JABTTS010000047.1,"Streptomyces sp. CHD11 scaffold47_size26603, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,26603,dna,2021/06/04,2021
+2048696538,NZ_JABTTS010000046.1,"Streptomyces sp. CHD11 scaffold46_size32024, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,32024,dna,2021/06/04,2021
+2048696537,NZ_JABTTS010000045.1,"Streptomyces sp. CHD11 scaffold45_size34729, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,34729,dna,2021/06/04,2021
+2048696536,NZ_JABTTS010000044.1,"Streptomyces sp. CHD11 scaffold44_size37973, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,37973,dna,2021/06/04,2021
+2048696535,NZ_JABTTS010000043.1,"Streptomyces sp. CHD11 scaffold43_size58417, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,58417,dna,2021/06/04,2021
+2048696534,NZ_JABTTS010000042.1,"Streptomyces sp. CHD11 scaffold42_size41245, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,41245,dna,2021/06/04,2021
+2048696533,NZ_JABTTS010000041.1,"Streptomyces sp. CHD11 scaffold41_size41732, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,41732,dna,2021/06/04,2021
+2048696532,NZ_JABTTS010000040.1,"Streptomyces sp. CHD11 scaffold40_size47299, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,47299,dna,2021/06/04,2021
+2048696531,NZ_JABTTS010000039.1,"Streptomyces sp. CHD11 scaffold39_size97714, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,97714,dna,2021/06/04,2021
+2048696530,NZ_JABTTS010000038.1,"Streptomyces sp. CHD11 scaffold38_size50554, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,50554,dna,2021/06/04,2021
+2048696529,NZ_JABTTS010000037.1,"Streptomyces sp. CHD11 scaffold37_size83744, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,83744,dna,2021/06/04,2021
+2048696528,NZ_JABTTS010000036.1,"Streptomyces sp. CHD11 scaffold36_size57156, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,57156,dna,2021/06/04,2021
+2048696527,NZ_JABTTS010000035.1,"Streptomyces sp. CHD11 scaffold35_size57873, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,57873,dna,2021/06/04,2021
+2048696526,NZ_JABTTS010000034.1,"Streptomyces sp. CHD11 scaffold34_size59509, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,59509,dna,2021/06/04,2021
+2048696525,NZ_JABTTS010000033.1,"Streptomyces sp. CHD11 scaffold33_size109953, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,109953,dna,2021/06/04,2021
+2048696524,NZ_JABTTS010000032.1,"Streptomyces sp. CHD11 scaffold32_size118291, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,118291,dna,2021/06/04,2021
+2048696523,NZ_JABTTS010000031.1,"Streptomyces sp. CHD11 scaffold31_size85279, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,85279,dna,2021/06/04,2021
+2048696522,NZ_JABTTS010000030.1,"Streptomyces sp. CHD11 scaffold30_size189933, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,189933,dna,2021/06/04,2021
+2048696521,NZ_JABTTS010000029.1,"Streptomyces sp. CHD11 scaffold29_size267445, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,267445,dna,2021/06/04,2021
+2048696520,NZ_JABTTS010000028.1,"Streptomyces sp. CHD11 scaffold28_size88987, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,88987,dna,2021/06/04,2021
+2048696519,NZ_JABTTS010000027.1,"Streptomyces sp. CHD11 scaffold27_size204147, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,204147,dna,2021/06/04,2021
+2048696518,NZ_JABTTS010000026.1,"Streptomyces sp. CHD11 scaffold26_size262929, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,262929,dna,2021/06/04,2021
+2048696517,NZ_JABTTS010000025.1,"Streptomyces sp. CHD11 scaffold25_size102221, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,102221,dna,2021/06/04,2021
+2048696516,NZ_JABTTS010000024.1,"Streptomyces sp. CHD11 scaffold24_size104849, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,104849,dna,2021/06/04,2021
+2048696515,NZ_JABTTS010000023.1,"Streptomyces sp. CHD11 scaffold23_size111428, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,111428,dna,2021/06/04,2021
+2048696500,NZ_JABTTS010000022.1,"Streptomyces sp. CHD11 scaffold22_size106957, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,106957,dna,2021/06/04,2021
+2048696486,NZ_JABTTS010000021.1,"Streptomyces sp. CHD11 scaffold21_size107951, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,107951,dna,2021/06/04,2021
+2048696485,NZ_JABTTS010000020.1,"Streptomyces sp. CHD11 scaffold20_size125230, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,125230,dna,2021/06/04,2021
+2048696484,NZ_JABTTS010000019.1,"Streptomyces sp. CHD11 scaffold19_size113627, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,113627,dna,2021/06/04,2021
+2048696483,NZ_JABTTS010000018.1,"Streptomyces sp. CHD11 scaffold18_size116589, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,116589,dna,2021/06/04,2021
+2048696482,NZ_JABTTS010000017.1,"Streptomyces sp. CHD11 scaffold17_size126153, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,126153,dna,2021/06/04,2021
+2048696481,NZ_JABTTS010000016.1,"Streptomyces sp. CHD11 scaffold16_size126550, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,126550,dna,2021/06/04,2021
+2048696479,NZ_JABTTS010000015.1,"Streptomyces sp. CHD11 scaffold15_size128298, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,128298,dna,2021/06/04,2021
+2048696478,NZ_JABTTS010000014.1,"Streptomyces sp. CHD11 scaffold14_size128932, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,128932,dna,2021/06/04,2021
+2048696477,NZ_JABTTS010000013.1,"Streptomyces sp. CHD11 scaffold13_size158199, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,158199,dna,2021/06/04,2021
+2048696476,NZ_JABTTS010000012.1,"Streptomyces sp. CHD11 scaffold12_size137880, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,137880,dna,2021/06/04,2021
+2048696475,NZ_JABTTS010000011.1,"Streptomyces sp. CHD11 scaffold11_size140565, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,140565,dna,2021/06/04,2021
+2048696474,NZ_JABTTS010000010.1,"Streptomyces sp. CHD11 scaffold10_size391617, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,391617,dna,2021/06/04,2021
+2048696473,NZ_JABTTS010000009.1,"Streptomyces sp. CHD11 scaffold9_size479887, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,479887,dna,2021/06/04,2021
+2048696472,NZ_JABTTS010000008.1,"Streptomyces sp. CHD11 scaffold8_size195467, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,195467,dna,2021/06/04,2021
+2048696471,NZ_JABTTS010000007.1,"Streptomyces sp. CHD11 scaffold7_size230116, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,230116,dna,2021/06/04,2021
+2048696470,NZ_JABTTS010000006.1,"Streptomyces sp. CHD11 scaffold6_size228980, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,228980,dna,2021/06/04,2021
+2048696469,NZ_JABTTS010000005.1,"Streptomyces sp. CHD11 scaffold5_size242482, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,242482,dna,2021/06/04,2021
+2048696468,NZ_JABTTS010000004.1,"Streptomyces sp. CHD11 scaffold4_size246888, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,246888,dna,2021/06/04,2021
+2048696467,NZ_JABTTS010000003.1,"Streptomyces sp. CHD11 scaffold3_size442568, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,442568,dna,2021/06/04,2021
+2048696466,NZ_JABTTS010000002.1,"Streptomyces sp. CHD11 scaffold2_size399953, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,399953,dna,2021/06/04,2021
+2048696465,NZ_JABTTS010000001.1,"Streptomyces sp. CHD11 scaffold1_size419235, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,419235,dna,2021/06/04,2021
+2229078083,NZ_CP095462.1,"Ectobacillus sp. JY-23 chromosome, complete genome",Ectobacillus sp. JY-23,2933872,3893080,dna,2022/04/22,2022
+2744302354,PP919231.1,"Bacillus paralicheniformis strain FUM-2 16S ribosomal RNA gene, partial sequence",Bacillus paralicheniformis,1648923,1152,dna,2024/06/22,2024
+2742303993,PP905199.1,"Kocuria palustris strain ABVPU 3 16S ribosomal RNA gene, partial sequence",Kocuria palustris,71999,1252,dna,2024/06/17,2024
+2741280596,PP893158.1,"Paenibacillus polymyxa strain PSNHD 1 16S ribosomal RNA gene, partial sequence",Paenibacillus polymyxa,1406,1378,dna,2024/06/15,2024
+2738702277,PP859288.1,"Bacillus licheniformis strain KRKJVR 7 16S ribosomal RNA gene, partial sequence",Bacillus licheniformis,1402,1330,dna,2024/06/07,2024
+2738702276,PP859287.1,"Bacillus tropicus strain KRKJVR5 16S ribosomal RNA gene, partial sequence",Bacillus tropicus,2026188,1287,dna,2024/06/07,2024
+2708088051,PP575820.1,"Bacillus sp. (in: firmicutes) strain DRS4 16S ribosomal RNA gene, partial sequence",Bacillus sp. (in: firmicutes),1409,1110,dna,2024/04/07,2024
+2659172618,PP210024.1,"Proteus mirabilis strain KSM15 16S ribosomal RNA gene, partial sequence",Proteus mirabilis,584,1479,dna,2024/01/30,2024
+2659145896,PP210021.1,"Pseudomonas aeruginosa strain KSA11 16S ribosomal RNA gene, partial sequence",Pseudomonas aeruginosa,287,1313,dna,2024/01/30,2024
+2637988353,OR999897.1,"Bacillus subtilis strain GH2 16S ribosomal RNA gene, partial sequence",Bacillus subtilis,1423,1076,dna,2023/12/26,2023
+2610328265,OR754042.1,"Stenotrophomonas sp. strain LMY 16S ribosomal RNA gene, partial sequence",Stenotrophomonas sp.,69392,1407,dna,2023/11/05,2023
+2605142141,CP136922.1,"Stenotrophomonas maltophilia strain 503 chromosome, complete genome",Stenotrophomonas maltophilia,40324,4857915,dna,2023/10/29,2023
+2212010046,NZ_JAHWCP010000226.1,"Bacillus cereus strain HD1 BD4_scaffold226, whole genome shotgun sequence",Bacillus cereus,1396,3133,dna,2022/03/25,2022
+2212010029,NZ_JAHWCP010000210.1,"Bacillus cereus strain HD1 BD4_scaffold210, whole genome shotgun sequence",Bacillus cereus,1396,4241,dna,2022/03/25,2022
+2212010019,NZ_JAHWCP010000201.1,"Bacillus cereus strain HD1 BD4_scaffold201, whole genome shotgun sequence",Bacillus cereus,1396,4709,dna,2022/03/25,2022
+2212009752,NZ_JAHWCP010000100.1,"Bacillus cereus strain HD1 BD4_scaffold100, whole genome shotgun sequence",Bacillus cereus,1396,18150,dna,2022/03/25,2022
+2048696694,NZ_JABTTS010000202.1,"Streptomyces sp. CHD11 scaffold212_size304, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,304,dna,2021/06/04,2021
+2048696691,NZ_JABTTS010000199.1,"Streptomyces sp. CHD11 scaffold209_size305, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,305,dna,2021/06/04,2021
+2048696690,NZ_JABTTS010000198.1,"Streptomyces sp. CHD11 scaffold208_size305, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,305,dna,2021/06/04,2021
+2048696685,NZ_JABTTS010000193.1,"Streptomyces sp. CHD11 scaffold203_size308, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,308,dna,2021/06/04,2021
+2048696684,NZ_JABTTS010000192.1,"Streptomyces sp. CHD11 scaffold202_size309, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,309,dna,2021/06/04,2021
+2048696682,NZ_JABTTS010000190.1,"Streptomyces sp. CHD11 scaffold200_size311, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,311,dna,2021/06/04,2021
+2048696681,NZ_JABTTS010000189.1,"Streptomyces sp. CHD11 scaffold199_size313, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,313,dna,2021/06/04,2021
+2048696677,NZ_JABTTS010000185.1,"Streptomyces sp. CHD11 scaffold195_size315, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,315,dna,2021/06/04,2021
+2048696676,NZ_JABTTS010000184.1,"Streptomyces sp. CHD11 scaffold194_size315, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,315,dna,2021/06/04,2021
+2048696675,NZ_JABTTS010000183.1,"Streptomyces sp. CHD11 scaffold193_size317, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,317,dna,2021/06/04,2021
+2048696674,NZ_JABTTS010000182.1,"Streptomyces sp. CHD11 scaffold192_size318, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,318,dna,2021/06/04,2021
+2048696673,NZ_JABTTS010000181.1,"Streptomyces sp. CHD11 scaffold191_size319, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,319,dna,2021/06/04,2021
+2048696669,NZ_JABTTS010000177.1,"Streptomyces sp. CHD11 scaffold187_size320, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,320,dna,2021/06/04,2021
+2048696668,NZ_JABTTS010000176.1,"Streptomyces sp. CHD11 scaffold186_size321, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,321,dna,2021/06/04,2021
+2048696667,NZ_JABTTS010000175.1,"Streptomyces sp. CHD11 scaffold185_size321, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,321,dna,2021/06/04,2021
+2048696666,NZ_JABTTS010000174.1,"Streptomyces sp. CHD11 scaffold184_size321, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,321,dna,2021/06/04,2021
+2048696663,NZ_JABTTS010000171.1,"Streptomyces sp. CHD11 scaffold181_size324, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,324,dna,2021/06/04,2021
+2048696660,NZ_JABTTS010000168.1,"Streptomyces sp. CHD11 scaffold178_size329, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,329,dna,2021/06/04,2021
+2048696659,NZ_JABTTS010000167.1,"Streptomyces sp. CHD11 scaffold177_size329, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,329,dna,2021/06/04,2021
+2048696658,NZ_JABTTS010000166.1,"Streptomyces sp. CHD11 scaffold176_size329, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,329,dna,2021/06/04,2021
+2048696657,NZ_JABTTS010000165.1,"Streptomyces sp. CHD11 scaffold175_size331, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,331,dna,2021/06/04,2021
+2048696654,NZ_JABTTS010000162.1,"Streptomyces sp. CHD11 scaffold172_size332, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,332,dna,2021/06/04,2021
+2048696653,NZ_JABTTS010000161.1,"Streptomyces sp. CHD11 scaffold171_size333, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,333,dna,2021/06/04,2021
+2048696652,NZ_JABTTS010000160.1,"Streptomyces sp. CHD11 scaffold170_size333, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,333,dna,2021/06/04,2021
+2048696650,NZ_JABTTS010000158.1,"Streptomyces sp. CHD11 scaffold168_size335, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,335,dna,2021/06/04,2021
+2048696646,NZ_JABTTS010000154.1,"Streptomyces sp. CHD11 scaffold164_size336, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,336,dna,2021/06/04,2021
+2048696642,NZ_JABTTS010000150.1,"Streptomyces sp. CHD11 scaffold160_size338, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,338,dna,2021/06/04,2021
+2048696641,NZ_JABTTS010000149.1,"Streptomyces sp. CHD11 scaffold159_size338, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,338,dna,2021/06/04,2021
+2048696640,NZ_JABTTS010000148.1,"Streptomyces sp. CHD11 scaffold158_size339, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,339,dna,2021/06/04,2021
+2048696639,NZ_JABTTS010000147.1,"Streptomyces sp. CHD11 scaffold157_size340, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,340,dna,2021/06/04,2021
+2048696638,NZ_JABTTS010000146.1,"Streptomyces sp. CHD11 scaffold156_size340, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,340,dna,2021/06/04,2021
+2048696636,NZ_JABTTS010000144.1,"Streptomyces sp. CHD11 scaffold154_size341, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,341,dna,2021/06/04,2021
+2048696634,NZ_JABTTS010000142.1,"Streptomyces sp. CHD11 scaffold152_size348, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,348,dna,2021/06/04,2021
+2048696633,NZ_JABTTS010000141.1,"Streptomyces sp. CHD11 scaffold151_size349, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,349,dna,2021/06/04,2021
+2048696628,NZ_JABTTS010000136.1,"Streptomyces sp. CHD11 scaffold145_size358, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,358,dna,2021/06/04,2021
+2048696627,NZ_JABTTS010000135.1,"Streptomyces sp. CHD11 scaffold144_size358, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,358,dna,2021/06/04,2021
+2048696626,NZ_JABTTS010000134.1,"Streptomyces sp. CHD11 scaffold143_size358, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,358,dna,2021/06/04,2021
+2048696625,NZ_JABTTS010000133.1,"Streptomyces sp. CHD11 scaffold142_size359, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,359,dna,2021/06/04,2021
+2048696624,NZ_JABTTS010000132.1,"Streptomyces sp. CHD11 scaffold141_size359, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,359,dna,2021/06/04,2021
+2048696623,NZ_JABTTS010000131.1,"Streptomyces sp. CHD11 scaffold139_size361, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,361,dna,2021/06/04,2021
+2048696621,NZ_JABTTS010000129.1,"Streptomyces sp. CHD11 scaffold137_size362, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,362,dna,2021/06/04,2021
+2048696619,NZ_JABTTS010000127.1,"Streptomyces sp. CHD11 scaffold135_size365, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,365,dna,2021/06/04,2021
+2048696618,NZ_JABTTS010000126.1,"Streptomyces sp. CHD11 scaffold134_size366, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,366,dna,2021/06/04,2021
+2048696617,NZ_JABTTS010000125.1,"Streptomyces sp. CHD11 scaffold133_size368, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,368,dna,2021/06/04,2021
+2048696616,NZ_JABTTS010000124.1,"Streptomyces sp. CHD11 scaffold132_size369, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,369,dna,2021/06/04,2021
+2048696612,NZ_JABTTS010000120.1,"Streptomyces sp. CHD11 scaffold128_size371, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,371,dna,2021/06/04,2021
+2048696607,NZ_JABTTS010000115.1,"Streptomyces sp. CHD11 scaffold123_size374, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,374,dna,2021/06/04,2021
+2048696606,NZ_JABTTS010000114.1,"Streptomyces sp. CHD11 scaffold122_size376, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,376,dna,2021/06/04,2021
+2048696603,NZ_JABTTS010000111.1,"Streptomyces sp. CHD11 scaffold119_size384, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,384,dna,2021/06/04,2021
+2048696602,NZ_JABTTS010000110.1,"Streptomyces sp. CHD11 scaffold118_size385, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,385,dna,2021/06/04,2021
+2048696600,NZ_JABTTS010000108.1,"Streptomyces sp. CHD11 scaffold116_size391, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,391,dna,2021/06/04,2021
+2048696598,NZ_JABTTS010000106.1,"Streptomyces sp. CHD11 scaffold114_size397, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,397,dna,2021/06/04,2021
+2048696597,NZ_JABTTS010000105.1,"Streptomyces sp. CHD11 scaffold113_size399, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,399,dna,2021/06/04,2021
+2048696596,NZ_JABTTS010000104.1,"Streptomyces sp. CHD11 scaffold112_size400, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,400,dna,2021/06/04,2021
+2048696593,NZ_JABTTS010000101.1,"Streptomyces sp. CHD11 scaffold108_size415, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,415,dna,2021/06/04,2021
+2048696589,NZ_JABTTS010000097.1,"Streptomyces sp. CHD11 scaffold104_size425, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,425,dna,2021/06/04,2021
+2048696588,NZ_JABTTS010000096.1,"Streptomyces sp. CHD11 scaffold103_size431, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,431,dna,2021/06/04,2021
+2048696586,NZ_JABTTS010000094.1,"Streptomyces sp. CHD11 scaffold100_size448, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,448,dna,2021/06/04,2021
+2048696584,NZ_JABTTS010000092.1,"Streptomyces sp. CHD11 scaffold96_size453, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,453,dna,2021/06/04,2021
+2048696582,NZ_JABTTS010000090.1,"Streptomyces sp. CHD11 scaffold94_size471, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,471,dna,2021/06/04,2021
+2048696579,NZ_JABTTS010000087.1,"Streptomyces sp. CHD11 scaffold90_size501, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,501,dna,2021/06/04,2021
+2048696578,NZ_JABTTS010000086.1,"Streptomyces sp. CHD11 scaffold89_size514, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,514,dna,2021/06/04,2021
+2048696577,NZ_JABTTS010000085.1,"Streptomyces sp. CHD11 scaffold87_size316, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,310,dna,2021/06/04,2021
+2048696575,NZ_JABTTS010000083.1,"Streptomyces sp. CHD11 scaffold85_size664, whole genome shotgun sequence",Streptomyces sp. CHD11,2741325,664,dna,2021/06/04,2021
+2550192349,OQ656312.1,"Bacillus paralicheniformis strain BL.HK alkaline serine protease gene, complete cds",Bacillus paralicheniformis,1648923,1140,dna,2023/07/26,2023
+2225259389,CP095462.1,"Ectobacillus sp. JY-23 chromosome, complete genome",Ectobacillus sp. JY-23,2933872,3893080,dna,2022/04/18,2022
+2522915539,OR165797.1,"Priestia flexa strain n20 16S ribosomal RNA gene, partial sequence",Priestia flexa,86664,577,dna,2023/06/27,2023
+2512317065,LC767644.1,"Kocuria rhizophila PN13 16S ribosomal RNA gene, partial sequence",Kocuria rhizophila,72000,1471,dna,2023/05/30,2023
+2497660959,OQ888794.1,"Brucella sp. strain FDS1 16S ribosomal RNA gene, partial sequence",Brucella sp.,52132,1097,dna,2023/05/03,2023
+2492817093,OQ851957.1,"Bacillus aerius strain MM02_SMBKMF2 16S ribosomal RNA gene, partial sequence",Bacillus aerius,293388,1411,dna,2023/04/26,2023
+2492812754,OQ851955.1,"Corynebacterium xerosis strain MM01_SMBKMF1 16S ribosomal RNA gene, partial sequence",Corynebacterium xerosis,1725,1320,dna,2023/04/26,2023
+2491167495,OP515527.1,"Bacillus sp. JY-23 KerJY-23 gene, complete cds",Ectobacillus sp. JY-23,2933872,1626,dna,2023/04/24,2023
+2477332110,OQ772304.1,"Stenotrophomonas maltophilia strain AR6 16S ribosomal RNA gene, partial sequence",Stenotrophomonas maltophilia,40324,1150,dna,2023/04/12,2023
+2459523450,OQ630542.1,"Proteus vulgaris strain K9 16S ribosomal RNA gene, partial sequence",Proteus vulgaris,585,1394,dna,2023/03/21,2023
+2459523449,OQ630541.1,"Bacillus subtilis strain K5 16S ribosomal RNA gene, partial sequence",Bacillus subtilis,1423,1405,dna,2023/03/21,2023
+2441887469,OQ410466.1,"Mesobacillus thioparans strain JAS 16S ribosomal RNA gene, partial sequence",Mesobacillus thioparans,370439,1099,dna,2023/02/14,2023
+2323625267,OP748783.1,"Bacillus cereus strain TP1 16S ribosomal RNA gene, partial sequence",Bacillus cereus,1396,1479,dna,2022/11/07,2022
+2323625266,OP748782.1,"Bacillus cereus strain JP1 16S ribosomal RNA gene, partial sequence",Bacillus cereus,1396,1419,dna,2022/11/07,2022
+2323625265,OP748781.1,"Bacillus cereus strain PP1 16S ribosomal RNA gene, partial sequence",Bacillus cereus,1396,1470,dna,2022/11/07,2022
+2300745177,OP420549.1,"Bacillus thuringiensis strain VP4 16S ribosomal RNA gene, partial sequence",Bacillus thuringiensis,1428,1468,dna,2022/09/18,2022
+2277455530,OP068210.1,"Brucella pseudintermedia strain K7 16S ribosomal RNA gene, partial sequence",Brucella pseudintermedia,370111,850,dna,2022/07/31,2022
+2210439797,JAHWCP000000000.1,"Bacillus cereus strain HD1, whole genome shotgun sequencing project",Bacillus cereus,1396,301,dna,2022/03/21,2022
+2191859733,OM638711.1,"Bacillus sp. (in: Bacteria) strain CSMK15 16S ribosomal RNA gene, partial sequence",Bacillus sp. (in: firmicutes),1409,902,dna,2022/02/15,2022
+2188392003,OM510278.1,"Bacillus wiedmannii strain SAB10 16S ribosomal RNA gene, partial sequence",Bacillus wiedmannii,1890302,1426,dna,2022/02/09,2022

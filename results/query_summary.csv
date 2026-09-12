@@ -1,0 +1,9 @@
+query_name,database,total_count,retrieved_ids,search_term
+keratinase_nucleotide,nucleotide,90,90,keratinase[Title] AND bacteria[Organism]
+bacillus_keratinase,protein,66,66,Bacillus keratinase[Title]
+keratinase_proteins_all,protein,13110,1000,keratinase
+bacterial_keratinase_proteins,protein,13082,1000,keratinase AND bacteria[Organism]
+bacillus_keratinase_v2,protein,5143,1000,keratinase AND Bacillus[Organism]
+keratinase_pubmed_v2,pubmed,154,154,keratinase AND (pharmaceutical OR cosmetic OR drug)
+keratinase_pubmed_all,pubmed,699,699,keratinase
+keratinase_nucleotide_v2,nucleotide,1346,1000,keratinase AND bacteria[Organism]
